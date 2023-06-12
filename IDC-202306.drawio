@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T13:44:19.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3w2jJDg4rM038T5T9P3g" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T13:48:03.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CtzAF1yJ6VwHCed5_kS3" version="21.3.6" type="github">
   <diagram name="第 1 页" id="-MxqXaStnTwVK_l81B4G">
-    <mxGraphModel dx="5275" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7448" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,21 +636,11 @@
         <mxCell id="wKe2ho-jKCfV5Uq98QJo-275" value="" style="shape=mxgraph.cisco.switches.atm_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1640" y="637" width="54" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="wKe2ho-jKCfV5Uq98QJo-276" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="930" y="610" as="sourcePoint" />
-            <mxPoint x="1010" y="610" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wKe2ho-jKCfV5Uq98QJo-285" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;动环接入交换机&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1602" y="705.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wKe2ho-jKCfV5Uq98QJo-287" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;安全管理区域&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="400" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wKe2ho-jKCfV5Uq98QJo-288" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wKe2ho-jKCfV5Uq98QJo-290" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;办公区及动环监控区域&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1556" y="400" width="150.5" height="30" as="geometry" />
