@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:12:26.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sxuhG1hVBiHc0lxzm9El" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:13:59.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wEISll95StWOev6zmS9h" version="21.3.6" type="github">
   <diagram name="第 1 页" id="-MxqXaStnTwVK_l81B4G">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -93,6 +93,18 @@
         </mxCell>
         <mxCell id="wKe2ho-jKCfV5Uq98QJo-37" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_server_blue;" vertex="1" parent="1">
           <mxGeometry x="77" y="862" width="43" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="wKe2ho-jKCfV5Uq98QJo-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;出口防火墙&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="208" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKe2ho-jKCfV5Uq98QJo-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;核心交换机&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKe2ho-jKCfV5Uq98QJo-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AI区域防火墙&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="498" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKe2ho-jKCfV5Uq98QJo-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AI区域核心交换机&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="630" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
