@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T09:26:06.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Xr_FiUWujRFnOFmgOxiW" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T09:27:19.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yLc3M8pqr4bTLARHmY5S" version="21.3.8" type="github">
   <diagram name="第 1 页" id="tBv48J49bosEzBr24FYz">
     <mxGraphModel dx="4007" dy="3176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,12 +80,6 @@
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#d21994;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-43" target="z-pyZQv4yoCRCfVyM5Dk-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-43" target="z-pyZQv4yoCRCfVyM5Dk-255">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-43" target="z-pyZQv4yoCRCfVyM5Dk-251">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-43" target="z-pyZQv4yoCRCfVyM5Dk-262">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -110,12 +104,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#d21994;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-55" target="z-pyZQv4yoCRCfVyM5Dk-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-55" target="z-pyZQv4yoCRCfVyM5Dk-255">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-55" target="z-pyZQv4yoCRCfVyM5Dk-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1" target="z-pyZQv4yoCRCfVyM5Dk-262">
@@ -718,35 +706,6 @@
           <mxGeometry x="467" width="593" height="220" as="geometry">
             <mxRectangle width="593" height="220" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-247" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;大容量存储&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-74.5" y="1330" width="136.5" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-248" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-251" target="z-pyZQv4yoCRCfVyM5Dk-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-249" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-251" target="z-pyZQv4yoCRCfVyM5Dk-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-250" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-251" target="z-pyZQv4yoCRCfVyM5Dk-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-251" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-177" y="1241" width="99.75" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-252" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-255" target="z-pyZQv4yoCRCfVyM5Dk-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-253" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-255" target="z-pyZQv4yoCRCfVyM5Dk-103">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="1200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-254" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeColor=#0e1010;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#1ba1e2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-255" target="z-pyZQv4yoCRCfVyM5Dk-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-255" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="22.75" y="1241" width="110" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-258" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="z-pyZQv4yoCRCfVyM5Dk-262">
           <mxGeometry relative="1" as="geometry">
