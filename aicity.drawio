@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:03:11.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fvEsIzlTfNoJrIxV_Pza" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:03:31.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Oxbgq57f-Vv2GXn-xBiD" version="21.3.8" type="github">
   <diagram name="第 1 页" id="tBv48J49bosEzBr24FYz">
     <mxGraphModel dx="3553" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,10 +109,10 @@
             <mxPoint x="2280" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;AI区域防火墙&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;核心防火墙&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="701" y="745.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-91" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;AI区域核心交换机&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-91" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;核心交换机&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="663" y="1063" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#cf9a4a;strokeWidth=3;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1">
@@ -233,6 +233,11 @@
             <mxPoint x="630.5" y="777" as="sourcePoint" />
             <mxPoint x="934.5" y="780" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-pyZQv4yoCRCfVyM5Dk-317" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z-pyZQv4yoCRCfVyM5Dk-180">
+          <mxGeometry x="0.3108" y="12" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z-pyZQv4yoCRCfVyM5Dk-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;strokeColor=#cf9a4a;strokeWidth=3;endFill=0;startArrow=none;startFill=0;fillColor=#f0a30a;" edge="1" parent="1">
