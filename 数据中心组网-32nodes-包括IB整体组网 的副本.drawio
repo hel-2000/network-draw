@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T03:30:58.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_pTgDX166zgzeDCFwndD" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T03:31:42.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OxbgI3ZI84-6kNEzWSyn" version="22.1.11" type="github">
   <diagram name="第 1 页" id="e8PkdAkC_buC88wBoFo7">
     <mxGraphModel dx="2628" dy="4866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
         <mxCell id="xnGxpGAB4OgCioL1Zj7z-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Spine 4&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="800.9200000000001" y="3210" width="110.82" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnGxpGAB4OgCioL1Zj7z-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;IB计算网络平面&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xnGxpGAB4OgCioL1Zj7z-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;IB计算网络平面&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="498" y="3310" width="400.09" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnGxpGAB4OgCioL1Zj7z-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -624,7 +624,7 @@
             <mxPoint x="1380" y="2860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnGxpGAB4OgCioL1Zj7z-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;IB存储网络平面&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xnGxpGAB4OgCioL1Zj7z-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;IB存储网络平面&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1648.12" y="3310" width="400.09" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VES8HO5FXvbWiDZE22TB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xnGxpGAB4OgCioL1Zj7z-27" target="xnGxpGAB4OgCioL1Zj7z-27">
