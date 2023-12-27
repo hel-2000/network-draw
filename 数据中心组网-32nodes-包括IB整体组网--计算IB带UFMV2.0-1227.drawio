@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T08:24:10.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H34dBvQFNotGSGEFedHd" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T08:25:34.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nrMJb3Z6aIxkCtN5sNH4" version="22.1.12" type="github">
   <diagram name="第 1 页" id="e8PkdAkC_buC88wBoFo7">
-    <mxGraphModel dx="8909" dy="7215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4529" dy="4605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,7 +364,7 @@
         <mxCell id="w58-n9etHen17CW85D_R-124" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;安全防护区域&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-77.16000000000003" y="-86.5" width="363.62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w58-n9etHen17CW85D_R-125" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;办公区域&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w58-n9etHen17CW85D_R-125" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;办公运维区域&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2469" y="-119" width="363.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w58-n9etHen17CW85D_R-127" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;带外管理区&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -750,8 +750,8 @@
         <mxCell id="6gW5B9_wZC029rqFil08-64" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;数据中心&lt;br&gt;网络核心区&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="439.5" width="363.62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6gW5B9_wZC029rqFil08-66" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;数据中心&lt;br&gt;出口区&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="853.1899999999999" y="-120" width="363.62" height="60" as="geometry" />
+        <mxCell id="6gW5B9_wZC029rqFil08-66" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;数据中心&lt;br&gt;网络出口区&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="846.3800000000001" y="-160" width="363.62" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6gW5B9_wZC029rqFil08-67" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;strokeWidth=3;endFill=0;" parent="1" source="w58-n9etHen17CW85D_R-107" target="w58-n9etHen17CW85D_R-75" edge="1">
           <mxGeometry relative="1" as="geometry">
