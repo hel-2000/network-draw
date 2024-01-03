@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T13:21:39.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="idPF6Uatav9iUqzdcbBP" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T14:17:03.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kw5qECguu6oR7HPQv3rb" version="22.1.16" type="github">
   <diagram name="第 1 页" id="e8PkdAkC_buC88wBoFo7">
-    <mxGraphModel dx="6719" dy="2610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="7055" dy="2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xnGxpGAB4OgCioL1Zj7z-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Spine 1&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="3210" width="103" height="40" as="geometry" />
+          <mxGeometry x="1816.12" y="3210" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xnGxpGAB4OgCioL1Zj7z-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;strokeColor=#f5120a;fillColor=#f8cecc;strokeWidth=2;endFill=0;" parent="1" source="xnGxpGAB4OgCioL1Zj7z-43" target="xnGxpGAB4OgCioL1Zj7z-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xnGxpGAB4OgCioL1Zj7z-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Spine 2&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2174.1099999999997" y="3210" width="103" height="40" as="geometry" />
+          <mxGeometry x="2149.9999999999995" y="3210" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="of0UfSPBuSyN1crqbuoX-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;strokeColor=#f5120a;fillColor=#f8cecc;strokeWidth=2;endFill=0;entryX=0.5;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xnGxpGAB4OgCioL1Zj7z-46" target="w58-n9etHen17CW85D_R-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,7 +253,7 @@
         <mxCell id="of0UfSPBuSyN1crqbuoX-2" value="&lt;font style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;S2&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1610" y="2220" width="81" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HkNaKL-6bvfZ98EW3hAm-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;数据中心Infiniband组网拓扑&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HkNaKL-6bvfZ98EW3hAm-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;数据中心Infiniband组网拓扑&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="1920" width="950.09" height="200" as="geometry" />
         </mxCell>
       </root>
