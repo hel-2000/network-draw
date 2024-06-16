@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T14:27:40.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_1e0FTok7CJ0L50dgiEu" version="24.4.12" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T14:27:52.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="O8iLxxHV8fKOxT7eYGrf" version="24.4.12" type="github">
   <diagram name="第 1 页" id="Xhv4VDSsPqRPGNAzkeZY">
     <mxGraphModel dx="794" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -7,11 +7,8 @@
         <mxCell id="tHSjwurjkYHsTCEM8UBL-1" value="" style="shape=mxgraph.cisco.switches.atm_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="1470" width="54" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="tHSjwurjkYHsTCEM8UBL-20" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r7425;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1480" width="98" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="tHSjwurjkYHsTCEM8UBL-27" value="" style="shape=mxgraph.rack.ibm.ibm_x3630_m3;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="127" y="1540" width="73" height="30" as="geometry" />
+          <mxGeometry x="80" y="1620" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
